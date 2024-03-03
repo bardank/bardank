@@ -1,6 +1,8 @@
 ### Hi there, I'm Bardan 👋
 
-I'm a Full-Stack Web developer sepecialized in MERN stack and Flutter for cross-platform mobile development
+Full-Stack Web developer sepecialized in MERN stack and Flutter for cross-platform mobile development
+
+Jack of all trades, master of some. 🛠️ Embracing versatility with a dash of expertise!
 
 <!-- ### ✨ What Spells I Weave:
 
@@ -19,7 +21,6 @@ Currently, I'm concocting solutions with a sprinkle of AWS magic, perfecting the
 From turning coffee into code to debugging quests of epic proportions, my spellbook is filled with the tales of projects brought to life and bugs turned into mythical creatures.
 
 Feel free to explore this magical realm of code with me, and let's craft something extraordinary together! 🚀✨ -->
-
 
 ### 🧙‍♂️ Spells in My Grimoire:
 
