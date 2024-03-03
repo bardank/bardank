@@ -1,6 +1,6 @@
 ### Hi there, I'm Bardan 👋
 
-Welcome to my coding sanctuary! 👨‍💻 Here, I blend the art of problem-solving with a touch of whimsy to conjure up seamless software solutions. Whether it's front-end wizardry, back-end alchemy, or wrangling data dragons, I'm your go-to sorcerer for all things code.
+I'm a Full-Stack Web developer sepecialized in MERN stack and Flutter for cross-platform mobile development
 
 <!-- ### ✨ What Spells I Weave:
 
